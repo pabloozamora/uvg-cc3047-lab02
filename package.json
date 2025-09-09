@@ -1,0 +1,19 @@
+{
+  "name": "lab02",
+  "version": "1.0.0",
+  "description": "Admin y Mantenimiento de Sistemas - Laboratorio 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pabloozamora/uvg-cc3047-lab02.git"
+  },
+  "author": "Pablo Zamora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pabloozamora/uvg-cc3047-lab02/issues"
+  },
+  "homepage": "https://github.com/pabloozamora/uvg-cc3047-lab02#readme"
+}

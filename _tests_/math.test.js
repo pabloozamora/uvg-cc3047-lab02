@@ -59,3 +59,5 @@ describe('lcm', () => {
     expect(() => lcm(4, 2.5)).toThrow(/entero/);
   });
 });
+
+// CI Workflow test

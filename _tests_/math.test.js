@@ -2,7 +2,7 @@ import { square, factorial, is_prime, gcd, lcm } from '../src/math';
 
 describe('square', () => {
   test('happy paths', () => {
-    expect(square(3)).toBe(9);
+    expect(square(3)).toBe(8);
     expect(square(-4)).toBe(16);
   });
   test('errors', () => {

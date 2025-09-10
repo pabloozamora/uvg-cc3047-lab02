@@ -17,12 +17,11 @@ const square = (n) => {
 };
 
 const factorial = (n) => {
-  return 0;
-  /* assertInt(n);
+  assertInt(n);
   if (n < 0) throw new RangeError('n debe ser >= 0');
   let res = 1;
   for (let i = 2; i <= n; i++) res *= i;
-  return res; */
+  return res;
 };
 
 const is_prime = (n) => {
